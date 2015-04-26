@@ -1,0 +1,13 @@
+GitHub is a powerful tool for developers to collaborate on a specific project. In a lot of ways, GitHub is like Dropbox for software development.
+
+The repo is like a directory or folder in the cloud. I can share this repo with others and grant them special permissions so that we can work in parallel.
+
+In terms of the flow, there is usually a top level or master repo. I have my own repo, and I can "fork" or essentially copy the master repo to make my own changes.
+
+If we were working with actual code, I would "clone" or make a local copy so that I could edit the code in my own computer (using my preferred text editor).
+
+Once I'm finished editing, I can "push" those changes onto my repo on GitHub.
+
+The last component is to submit a "pull" request. This is basically a way to tell the maintainer of whatever project I'm working on to take a look at the changes, and if she/he is cool with them, to add them to the repository.
+
+Pretty sweet.
